@@ -6,3 +6,4 @@ screenshoot:
 ![i3wm Lain](https://i.imgur.com/aTTLVsv.png)
 ![i3wm Lain](https://i.imgur.com/isP9bjD.png)
 ![i3wm Lain](https://i.imgur.com/omE5F74.png)
+![i3wm Lain](https://i.imgur.com/iROh9rx.png)
