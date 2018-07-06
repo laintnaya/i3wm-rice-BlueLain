@@ -1,0 +1,78 @@
+!URxvt------------------------
+URxvt.font: xft:ubuntu mono:pixelsize=14, xft:Font Awesome 5 Free-Regular-400:size=14, xft:FontAwesome:size=12
+urxvt*termName: 		rxvt
+urxvt*scrollBar: 		false
+urxvt*matcher.button: 		1
+urxvt.transparent: 		true
+urxvt.shading:			20
+urxvt*depth: 			32
+urxvt*background: 		rgba:4100/4800/5800/c800
+urxvt.boldFont:
+Xft*dpi: 			96
+Xft*antialias: 			true
+Xft*hinting: 			true
+Xft*hintstyle: 			hintfull
+Xft*rgba: 			rgb
+URxvt*geometry: 		85x20
+*internalBorder: 		23
+URxvt*fading: 			0
+URxvt*tintColor: 		#ffffff
+URxvt*shading: 			0
+URxvt*inheritPixmap: 		False
+*background:			#2f343f
+*foreground: 			#d7d7d7
+*cursorColor: 			#c7c7c7
+*highlightTextColor: 		#383c4a
+*highlightColor: 		#c1ddff
+! black
+*.color0:       		#383c4a
+*.color8:       		#383c4a
+! red
+*.color1:       		#e28d9d
+*.color9:       		#e28d9d
+! green
+*.color2:       		#bfd888
+*.color10:      		#bfd888
+! yellow
+*.color3:       		#df936c
+*.color11:      		#df936c
+! blue
+*.color4:       		#5294e2
+*.color12:      		#5294e2
+! magenta
+*.color5:       		#f74771
+*.color13:      		#f74771
+! cyan
+*.color6:       		#7c818c
+*.color14:      		#7c818c
+! white
+*.color7:       		#d7d7d7
+*.color15:      		#d7d7d7
+:
+
+!rofi----------------------------------------------------
+rofi.modi:                           drun,window
+rofi.sidebar-mode:                   true
+!rofi.terminal:                       termite
+!rofi.ssh-client:                     ssh
+!rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
+rofi.opacity:                        95
+rofi.width:                          40
+rofi.lines:                          8
+rofi.columns:                        1
+rofi.font:                           Ubuntu 18
+rofi.location:				               8
+rofi.xoffset:				                 170 
+rofi.yoffset:				                 70 
+rofi.padding:				                 30
+rofi.hide-scrollbar:			           true
+
+rofi.color-enabled: true
+
+!indicator	       bg	    border   separator
+rofi.color-window: #273238, #273238, #1e2529
+
+!indicator	        bg	    fg 	     altbg    hlbg     hlfg
+rofi.color-normal: #273238, #676E7D, #273238, #273238, #3d9ed5
+rofi.color-active: #273238, #7cb0ac, #273238, #273238, #3d9ed5
+rofi.color-urgent: #273238, #ff1844, #273238, #273238, #ff1844
