@@ -27,7 +27,7 @@ font pango:Ubuntu 9
 # font, it doesn’t scale on retina/hidpi displays.
 
 # startup
-exec_always --no-startup-id feh --bg-fill /home/lintnaya/Pictures/lainblue.jpg
+exec_always --no-startup-id feh --bg-fill ~/Pictures/lainblue.jpg
 exec_always --no-startup-id compton
 
 # no title bar + gaps
@@ -69,8 +69,6 @@ bindsym $mod+t exec urxvt -e htop
 bindsym $mod+g exec urxvt -e freesweep
 # start a calender task
 bindsym $mod+c exec urxvt -e calcurse
-# start fetch
-#bindsym $mod+z exec neofetch -N
 
 
 # kill focused window
