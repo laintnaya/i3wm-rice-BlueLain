@@ -1,5 +1,4 @@
 # i3wm rice : Blue Lain (Serial Experiments Lain)
-My i3wm rice inspired by Serial Experiments Lain
 
 ### screenshoots
 ![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/01-Desktop.png)
