@@ -1,12 +1,13 @@
 # i3wm rice : Blue Lain (Serial Experiments Lain)
 My i3wm rice inspired by Serial Experiments Lain
 
-### screenshoot
-![i3wm Lain](https://i.imgur.com/oRUP5wQ.png?1)
-![i3wm Lain](https://i.imgur.com/aTTLVsv.png)
-![i3wm Lain](https://i.imgur.com/isP9bjD.png)
-![i3wm Lain](https://i.imgur.com/omE5F74.png)
-![i3wm Lain](https://i.imgur.com/iROh9rx.png)
+### screenshoots
+![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/01-Desktop.png)
+![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/02-neofetch.png)
+![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/03-rofidmenu.png)
+![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/04-console-aplications.png)
+![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/06-another-console-applications.png)
+![i3wm Lain](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/screenshots/05-lockscreen.png)
 ***
 ## Dependencies
 * [i3-gaps](https://github.com/Airblader/i3)  (the gaps around windows)
@@ -19,6 +20,7 @@ My i3wm rice inspired by Serial Experiments Lain
 * [playerctl](https://github.com/acrisci/playerctl) (multimedia key)
 * [scrot](https://github.com/dreamer/scrot) (printscreen key)
 * [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode) (terminal emulator)
+* [neofetch](https://github.com/dylanaraps/neofetch) (A command-line system information tool)
 
 ### Optional Dependencies
 * [ranger](https://github.com/ranger/ranger) (console file manager)
