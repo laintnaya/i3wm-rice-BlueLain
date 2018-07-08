@@ -29,6 +29,14 @@ My i3wm rice inspired by Serial Experiments Lain
 * [calcurse](https://www.calcurse.org/) (console calendar & scheduling application)
 * [freesweep](https://github.com/rwestlund/freesweep) (console minesweeper)
 ***
+## Config Directory
+* `i3/*`  to   `~/.config/i3/`
+* `i3blocks/i3blocks.conf` to `/etc/i3blocks.conf`
+* `i3blocks/battery` to `/usr/share/i3blocks/battery`
+* `neofetch/config.conf` to `~/.config/neofetch/config.conf`
+* `neofetch/navi.jpg` to `~/Pictures/navi.jpg`
+* `urxvt-rofi/.Xresources` to `~/.Xresources`
+***
 ## Desktop Themes
 * [arc-gtk-themes](https://github.com/horst3180/arc-theme)
 * [papirus-icon-themes](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
