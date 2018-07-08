@@ -61,11 +61,11 @@ rofi.width:                          40
 rofi.lines:                          8
 rofi.columns:                        1
 rofi.font:                           Ubuntu 18
-rofi.location:				               8
-rofi.xoffset:				                 170 
-rofi.yoffset:				                 70 
-rofi.padding:				                 30
-rofi.hide-scrollbar:			           true
+rofi.location:				        8
+rofi.xoffset:				          170 
+rofi.yoffset:				          70 
+rofi.padding:				          30
+rofi.hide-scrollbar:			     true
 
 rofi.color-enabled: true
 
