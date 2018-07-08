@@ -38,6 +38,6 @@
 * `urxvt-rofi/.Xresources` to `~/.Xresources`
 ***
 ## Desktop Themes
-* [arc-gtk-themes](https://github.com/horst3180/arc-theme)
+* [arc-dark-gtk-themes](https://github.com/horst3180/arc-theme)
 * [papirus-icon-themes](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 * [Lain-Blue-Wallpaper](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/wallpaper/lainblue.jpg)
