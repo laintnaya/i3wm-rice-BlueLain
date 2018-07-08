@@ -20,6 +20,7 @@
 * [scrot](https://github.com/dreamer/scrot) (printscreen key)
 * [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode) (terminal emulator)
 * [neofetch](https://github.com/dylanaraps/neofetch) (command-line system information tool)
+* [jp2a](https://csl.name/jp2a/) (JPG to ASCII, use for custome neofetch)
 
 ### Optional Dependencies
 * [ranger](https://github.com/ranger/ranger) (console file manager)
