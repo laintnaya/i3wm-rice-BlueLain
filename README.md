@@ -32,4 +32,4 @@ My i3wm rice inspired by Serial Experiments Lain
 ## Desktop Themes
 * [arc-gtk-themes](https://github.com/horst3180/arc-theme)
 * [papirus-icon-themes](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-* [Lain-Blue-Wallpaper](https://i.imgur.com/gNteIxP.jpg)
+* [Lain-Blue-Wallpaper](https://raw.githubusercontent.com/nversleep012/i3wm-rice-BlueLain/master/wallpaper/lainblue.jpg)
