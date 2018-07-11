@@ -22,7 +22,7 @@
 * [neofetch](https://github.com/dylanaraps/neofetch) (command-line system information tool)
 * [jp2a](https://csl.name/jp2a/) (JPG to ASCII, use for custome neofetch)
 
-### Optional Dependencies
+### Optional
 * [ranger](https://github.com/ranger/ranger) (console file manager)
 * [htop](https://github.com/hishamhm/htop) (console interactive process viewer)
 * [cmus](https://cmus.github.io/) (console music player)
